@@ -1783,5 +1783,35 @@
     "libraries": [
       "net.fabricmc:intermediary:24w21a"
     ]
+  },
+  "1.21": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21"
+    ]
+  },
+  "1.21-rc1": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21-rc1"
+    ]
+  },
+  "1.21-pre4": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21-pre4"
+    ]
+  },
+  "1.21-pre3": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21-pre3"
+    ]
+  },
+  "1.21-pre2": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21-pre2"
+    ]
+  },
+  "1.21-pre1": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21-pre1"
+    ]
   }
 }
